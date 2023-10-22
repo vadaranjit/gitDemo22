@@ -48,7 +48,7 @@ public class HomePage
 		cart_Icon.click();
 	}
 	
-	public void demoForBDD() 
+	public void demoTDD() 
 	{
 		cart_Icon.click();
 	}
