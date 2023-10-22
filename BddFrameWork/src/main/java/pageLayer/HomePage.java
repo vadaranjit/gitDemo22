@@ -48,8 +48,4 @@ public class HomePage
 		cart_Icon.click();
 	}
 	
-	public void demoTDD() 
-	{
-		cart_Icon.click();
-	}
 }
