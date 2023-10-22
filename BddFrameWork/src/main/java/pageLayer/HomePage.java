@@ -47,4 +47,9 @@ public class HomePage
 	{
 		cart_Icon.click();
 	}
+	
+	public void demoForBDD() 
+	{
+		cart_Icon.click();
+	}
 }
